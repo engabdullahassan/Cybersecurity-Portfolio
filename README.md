@@ -1,7 +1,7 @@
 ###
 
 <h1 align="center">Abdullah's Cybersecurity Portfolio</h1>
-<h4 align="center">Computer Engineer 𝐁.𝐒.𝐂𝐨𝐦𝐩.𝐄. | Cybersecurity Specialist | Machine Learning Specialist</h3>
+<h4 align="center">Computer Engineer BSCE - American University in Dubai | Cybersecurity & AI Specialist | Machine Learning and Deep Learning Specialist | Cybersecurity Analyst</h3>
 <br>
 <br>
 
