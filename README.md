@@ -119,7 +119,7 @@ the organizations I collaborate with toward excellence.</p>
 
 [Applying the PASTA threat model framework](Applying%20the%20PASTA%20threat%20model%20framework.pdf)
 
-[Botium Internal Security Audit](Botium,%20Internal%20Security%20Audit.pdf)
+[Botium Internal Security Audit](Botium%20Internal%20Security%20Audit.pdf)
 
 [Botium Stakeholder memorandum](Botium%20Stakeholder%20memorandum.pdf)
 
@@ -159,8 +159,6 @@ the organizations I collaborate with toward excellence.</p>
 
 [Splunk & Chronicle - SIEM labs](SIEM%20labs.pdf)
 
-[Research network protocol analyzers](Research%20network%20protocol%20analyzers.pptx)
-
 [Risk Register](Risk%20Register.pdf)
 
 [SQL Apply more filter](SQL%20Apply%20more%20filters.pdf)
@@ -171,13 +169,13 @@ the organizations I collaborate with toward excellence.</p>
 
 [SQL Queries](SQL%20Queries.pdf)
 
-[Suspicous hash file investigation](Suspicous%20hash%20file%20investigation.pdf)
+[Suspicous hash file investigation](Suspicous%20hash%20file%20investigation.pptx)
 
 [Update a file through a Python algortihm](Update%20a%20file%20through%20a%20Python%20algorithm.pdf)
 
 [Utilizing NIST Framework to respond to a security incident](Utilizing%20NIST%20Framework%20to%20respond%20to%20a%20security%20incident.pdf)
 
-[Vulnerability Assessment](Vulnerability%20Assessment.pdf)
+[Vulnerability Assessment Report](Vulnerability%20Assessment%20Report.pdf)
 
 <br>
 
