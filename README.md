@@ -163,7 +163,7 @@ the organizations I collaborate with toward excellence.</p>
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="47" alt="linkedin logo"  />
   </a>
   <a href="mailto:eng.abdullahmourad@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="47" alt="microsoft-outlook logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="47" alt="microsoft-outlook logo"  />
   </a>
 </div>
 
