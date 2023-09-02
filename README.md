@@ -115,15 +115,17 @@ the organizations I collaborate with toward excellence.</p>
 
 [Analysis of Files and URLs for malicious content and IoCs using VirusTotal, using Pyramid of Pain Framework](Analysis%20of%20Files%20and%20URLs%20for%20malicious%20content%20and%20IoCs%20using%20VirusTotal,%20using%20Pyramid%20of%20Pain%20Framework.pdf)
 
-[Analysis of network hardening](Analysis%20of%20network%20hardening.pdf)
+[Analyze packet using Wireshark](Analyze%20packet%20using%20Wireshark.pdf)
 
 [Applying the PASTA threat model framework](Applying%20the%20PASTA%20threat%20model%20framework.pdf)
 
-[Botium, Security Audit](Botium,%20Security%20Audit.pdf)
+[Botium Internal Security Audit](Botium,%20Internal%20Security%20Audit.pdf)
 
-[Botium, Stakeholder Memorandum](Botium,%20Stakeholder%20Memorandum.pdf)
+[Botium Stakeholder memorandum](Botium%20Stakeholder%20memorandum.pdf)
 
 [Controlling Access to Restricted Content.ipynb](Controlling%20Access%20to%20Restricted%20Content.ipynb)
+
+[Data Leak Worksheet](Data%20Leak%20Worksheet.pdf)
 
 [File Decryption with Linux CLI](File%20Decryption%20with%20Linux%20CLI.pdf)
 
