@@ -111,7 +111,7 @@ the organizations I collaborate with toward excellence.</p>
 
 [Access Control Lab.ipynb](Access%20Control%20Lab.ipynb)
 
-[Access Control Assessment](Access%20Control%20Assessment.pdf)
+[Access Controls Assessment](Access%20Controls%20Assessment.pdf)
 
 [Analysis of Files and URLs for malicious content and IoCs using VirusTotal, using Pyramid of Pain Framework](Analysis%20of%20Files%20and%20URLs%20for%20malicious%20content%20and%20IoCs%20using%20VirusTotal,%20using%20Pyramid%20of%20Pain%20Framework.pdf)
 
