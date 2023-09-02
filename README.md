@@ -1,8 +1,6 @@
-<h6 align="center">I decided to migrate to GitHub to display my more recent work, with a focus on cyber security.<br>Note: The portfolio is still an early work in progress and far from a complete representation of all my work and projects.</h6>
-
 ###
 
-<h1 align="center">Yazeed's Portfolio</h1>
+<h1 align="center">Abdullah's Cybersecurity Portfolio</h1>
 <h4 align="center">Computer Engineer 𝐁.𝐒.𝐂𝐨𝐦𝐩.𝐄. | Cybersecurity Specialist | Machine Learning Specialist</h3>
 <br>
 <br>
@@ -14,8 +12,16 @@
 ###
 
 <p align="left">
-  I am a computer engineer (B.Sc.Comp.E) planning to do an MSc in Cybersecurity, with a keen interest in AI and machine learning. 
-  Throughout my journey, I have acquired knowledge in diverse areas including mathematics, computer science, electrical engineering, computer engineering and hardware, artificial intelligence, and cyber security.</p>
+I am a dedicated Computer Engineer (B.Sc. CE.) with a dynamic vision aimed at pursuing an MSc in Cybersecurity 
+and Artificial Intelligence. My unwavering passion lies in the realm of cybersecurity, and I am resolute in my pursuit 
+of knowledge and expertise in this field. My academic journey has traversed a multitude of disciplines, encompassing 
+mathematics, computer science, electrical engineering, computer engineering, hardware, artificial intelligence, and 
+cybersecurity. This diverse foundation equips me with a comprehensive understanding of the intricate interplay 
+between various facets of technology. 
+As I set my sights on the horizon, I seek to amass experience through engagement with challenging roles within the 
+industry. This quest is driven by an unyielding desire to cultivate new proficiencies and elevate my skill set. I possess 
+the confidence to make meaningful contributions as a valuable asset, leveraging my multifaceted expertise to propel 
+the organizations I collaborate with toward excellence.</p>
 
 
 <h2 align="left">I code with</h2>
@@ -145,19 +151,18 @@
 
 <br>
 
-<p  align="left">
-... portfolio under construction👷🚧, adding more cyber security work soon!</p>
 
-<h6 align="left"> I have +100 documents consisting of coursework, research, and projects I completed during my BSc degree. However, I decided to dedicate this portfolio to my cybersecurity journey  </h6>
+
+<h6 align="left"> Please check out my other repositories if you want to check my projects out of the cybersecurity field!  </h6>
 
 ###
 
 <h2 align="left"></h2>
 <div align="left">
-  <a href="https://www.linkedin.com/in/yazeed-alshehri/" target="_blank">
+  <a href="https://www.linkedin.com/in/abdullah-hassan-99516523a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="47" alt="linkedin logo"  />
   </a>
-  <a href="mailto:CE.Yazeed@proton.me" target="_blank">
+  <a href="mailto:eng.abdullahmourad@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="47" alt="microsoft-outlook logo"  />
   </a>
 </div>
