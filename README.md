@@ -141,8 +141,6 @@ the organizations I collaborate with toward excellence.</p>
 
 [Incident Report - OS Hardening](Incident%20Report%20-%20OS%20Hardening.pdf)
 
-[Incident handler's journal #2](Incident%20handler's%20journal%20#2.pdf)
-
 [Incident handler's journal](Incident%20handler's%20journal.pdf)
 
 [Linux CLI](Linux%20CLI.pdf)
@@ -168,8 +166,6 @@ the organizations I collaborate with toward excellence.</p>
 [SQL Joins](SQL%20Joins.pdf)
 
 [SQL Queries](SQL%20Queries.pdf)
-
-[Suspicous hash file investigation](Suspicous%20hash%20file%20investigation.pptx)
 
 [Update a file through a Python algortihm](Update%20a%20file%20through%20a%20Python%20algorithm.pdf)
 
