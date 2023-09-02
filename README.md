@@ -127,29 +127,57 @@ the organizations I collaborate with toward excellence.</p>
 
 [Data Leak Worksheet](Data%20Leak%20Worksheet.pdf)
 
+[Examine alerts, logs, and rules with Suricata](Examine%20alerts,%20logs,%20and%20rules%20with%20Suricata.pdf)
+
 [File Decryption with Linux CLI](File%20Decryption%20with%20Linux%20CLI.pdf)
+
+[Identifying Attack Vectors](Identifying%20Attack%20Vectors.pdf)
 
 [Importing & Parsing Security logs.ipynb](Importing%20&%20Parsing%20Security%20logs.ipynb)
 
-[Incident Log, Analyzing Wireshark TCP HTTP](Incident%20Log,%20Analyzing%20Wireshark%20TCP%20HTTP.pdf)
+[Incident Log Wireshark TCP HTTP](Incident%20Log%20Wireshark%20TCP%20HTTP.pdf)
 
 [Incident Report - Network Traffic Analysis](Incident%20Report%20-%20Network%20Traffic%20Analysis.pdf)
 
-[Incident report - OS hardening techniques - DNS & HTTP log](Incident%20report%20-%20OS%20hardening%20techniques%20-%20DNS%20&%20HTTP%20log.pdf)
+[Incident Report - OS Hardening](Incident%20Report%20-%20OS%20Hardening.pdf)
 
-[Linux CLI Labs](Linux%20CLI%20Labs.pdf)
+[Incident handler's journal #2](Incident%20handler's%20journal%20#2.pdf)
+
+[Incident handler's journal](Incident%20handler's%20journal.pdf)
+
+[Linux CLI](Linux%20CLI.pdf)
+
+[Linux File Permissions](Linux%20File%20Permissions.pdf)
+
+[Linux tcpdump packet capture](Linux%20tcpdump%20packet%20capture.pdf)
+
+[Network Hardening analysis](Network%20Hardening%20analysis.pdf)
+
+[Phishing incident response](Phishing%20incident%20response.pdf)
 
 [Python - Security Analyst Pattern Recognition.ipynb](Python%20Pattern%20Recognition.ipynb)
 
 [Splunk & Chronicle - SIEM labs](SIEM%20labs.pdf)
 
-[SQL Queries - Techniques and Wildcards](SQL%20Queries%20-%20Techniques%20and%20Wildcards.pdf)
+[Research network protocol analyzers](Research%20network%20protocol%20analyzers.pptx)
 
-[Suricata - Examining alerts, logs, and rules](Suricata%20Lab%20-%20Examining%20alerts,%20logs,%20and%20rules.pdf)
+[Risk Register](Risk%20Register.pdf)
+
+[SQL Apply more filter](SQL%20Apply%20more%20filters.pdf)
+
+[SQL Filter with AND, OR and NOT](SQL%20Filter%20with%20AND,%20OR%20and%20NOT.pdf)
+
+[SQL Joins](SQL%20Joins.pdf)
+
+[SQL Queries](SQL%20Queries.pdf)
+
+[Suspicous hash file investigation](Suspicous%20hash%20file%20investigation.pdf)
+
+[Update a file through a Python algortihm](Update%20a%20file%20through%20a%20Python%20algorithm.pdf)
 
 [Utilizing NIST Framework to respond to a security incident](Utilizing%20NIST%20Framework%20to%20respond%20to%20a%20security%20incident.pdf)
 
-[Utilizing a Playbook to respond to a phishing incident](Utilizing%20a%20Playbook%20to%20respond%20to%20a%20phishing%20incident.pdf)
+[Vulnerability Assessment](Vulnerability%20Assessment.pdf)
 
 <br>
 
